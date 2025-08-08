@@ -1,1 +1,5 @@
+# Archivos de construcción de NetBeans
 .build.xml
+nbproject/build/
+nbproject/private/
+build/
